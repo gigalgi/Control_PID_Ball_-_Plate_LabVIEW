@@ -1,5 +1,5 @@
 # Control PID Ball Plate LabVIEW
-##
+
 El uso de controladores en el mundo moderno es cada vez
 más constante permitiéndonos crear maquinas capaces de
 hacer tareas complejas o simples, ambas de una manera eficaz
@@ -19,5 +19,5 @@ posición determinada.
 La planta consta de dos servomotores dispuestos para cada eje
 X y Y, una cámara de 30 fps incrementando la cantidad de
 análisis posibles en el sistema en tiempo real.
-
+##
 * Ver funcionamiento aqui --> https://www.youtube.com/watch?v=-NnAiEEAsu0&t=3s, https://www.youtube.com/watch?v=XmGT4wRoKsk
